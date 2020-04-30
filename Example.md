@@ -3,7 +3,7 @@ Web applications include online forms, shopping carts, word processors, spreadsh
 
 Google Apps for Work has Gmail, Google Docs, Google Sheets, Google Slides, online storage and more. Other functionalities include online sharing of documents and calendars. This lets all team members access the same version of a document simultaneously.
 
-##The top 5 examples of web app development you should know about
+## The top 5 examples of web app 
 1.Google Docs
 Google’s office suite is one of the best web applications in the world. Google Docs allows us to create documents, save them on our computer or on our Google Drive account, save them in PDF format, print them, and share them with our colleagues. And most importantly: it enables us to work on the same document with our colleagues.
 
