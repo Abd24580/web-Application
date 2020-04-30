@@ -1,3 +1,6 @@
+![](exam.jpg)
+
+
 # Example of a web application
 Web applications include online forms, shopping carts, word processors, spreadsheets, video and photo editing, file conversion, file scanning, and email programs such as Gmail, Yahoo and AOL. Popular applications include Google Apps and Microsoft 365.
 
