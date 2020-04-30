@@ -1,7 +1,7 @@
 
 [About](Abouut.md) 
 
-[How work](how works.md) 
+[How work](https://github.com/Abd24580/web-Application/blob/master/how%20works.md) 
  
  [Example](https://github.com/Abd24580/wap-applcation/edit/master/README.md)
  
