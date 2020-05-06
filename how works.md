@@ -5,6 +5,8 @@ The web application requires a web server to manage requests from the client, an
 
 Here's what a typical web application flow looks like:
 
+![](rsz_scheme.jpg)
+
 ### 1. User triggers a request to the web server over the Internet, either through a web browser or the application’s user interface
 
 ### 2. Web server forwards this request to the appropriate web application server
