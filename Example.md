@@ -10,7 +10,7 @@ Google Apps for Work has Gmail, Google Docs, Google Sheets, Google Slides, onlin
 1.Google Docs
 Google’s office suite is one of the best web applications in the world. Google Docs allows us to create documents, save them on our computer or on our Google Drive account, save them in PDF format, print them, and share them with our colleagues. And most importantly: it enables us to work on the same document with our colleagues.
 
-![](google docs.jpg)
+![](gogo.jpg)
 
 2.Pixlr.com
 Pixlr is one of the best web applications for photo editing. This app is inspired by the well-known photo editing programme Adobe Photoshop, as the programme’s design and its structure let us know right away. This application will, therefore, be very familiar among those of us who are Adobe Photoshop users.
