@@ -7,7 +7,7 @@
  
  [Advantage](Advantage) 
  
- [Comparasion](https://github.com/Abd24580/wap-applcation/edit/master/README.md) 
+ [Comparasion](Comparison.md) 
  
  [Quiz](https://github.com/Abd24580/wap-applcation/edit/master/README.md) 
  
