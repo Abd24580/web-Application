@@ -5,3 +5,4 @@
 - They reduce software piracy in subscription-based web applications (i.e. SaaS)
 - They reduce costs for both the business and end user as there is less support and maintenance required by the business and lower requirements for the end user’s computer
 
+![](adv.jpeg)
